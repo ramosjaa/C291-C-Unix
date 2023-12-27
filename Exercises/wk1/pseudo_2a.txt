@@ -1,0 +1,15 @@
+Jack Ramos
+C291 Assignment 1: #2a
+Date: 5/16/2022
+
+Ask user for the month name
+Ask user for year
+
+Store year mod 4 as an integer
+
+If the user entered January, March, May, July, August, October, or December, print that the number of days is 31.
+If the user entered April, June, September, or November, print that the number of days is 30.
+If the user entered February and if year mod 4 is equal to o0, print that the number of days is 29.
+If the user entered February and if year mod 4 is not equal to 0, print that the number of days is 28.
+
+print out the number of days as calculated
